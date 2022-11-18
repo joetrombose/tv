@@ -1,0 +1,773 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="DE | Sat.1 HD+" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Sat.1 HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SnpqXyl7ZhFyD9ktuYImHCCxZnARRxHe_-FXrEmNeQ9u
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="DE | RTL HD+" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | RTL HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmeWoxPn8hWVbNibSKrZ9BU06SWjD1BkDeN6TicYD5jA
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="DE | RTLZWEI HD+" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | RTLZWEI HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stp_xrEGKbeaYC0yhBw1pgV0ImdlyHRw15wRaW9KPUtH
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="DE | ProSieben HD+" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | ProSieben HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlYtBhl9B0I5cM8koTwF9ZmWEUTKpiU5NsknwItztT_m
+#EXTINF:-1 tvg-id="KabelEins.de" tvg-name="DE | Kabel eins HD+" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Kabel eins HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sn8urikDsA0sqLgXQQuuiwxJA1ghJ1HZoT2qj08aBQ-m
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="DE | VOX HD+" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | VOX HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlOX4QM4ANa7JQBXaC776xhWrTqqIchF91hTC8OKJmP0
+#EXTINF:-1 tvg-id="Sixx.de" tvg-name="DE | Sixx HD+" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Sixx HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShEMTs9mhe_i-Os8odsFbmp6L2XeJuWML2P5YGiSOGUU
+#EXTINF:-1 tvg-id="SonnenKlar.de" tvg-name="DE | Sonnenklar TV" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Sonnenklar TV
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SnZCHHZUZTSjqvBtIb8VoK1DYbXoDd_M8SrkJUfwsxLu
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="DE | ProSieben Maxx HD+" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | ProSieben Maxx HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SiA6bZM99x-HifXADrOirIynNqywI4vjmNYHm12Mxx8S
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="DE | RTL Passion HD+" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | RTL Passion HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Slb4T-nBzZY7nTIggx9thaLT3g9PN8vRT-6hjsA0cRjR
+#EXTINF:-1 tvg-id="RTLCrime.de" tvg-name="DE | RTL Crime HD+" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | RTL Crime HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sm_SYQ2VEnBKdQrBKd0_A1yp-sv0Jhs5n-Qpj_AUcwsp
+#EXTINF:-1 tvg-id="RTLLiving.de" tvg-name="DE | RTL Living HD+" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | RTL Living HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skwr02F1snhKgi6VD3DQkidmVYlVlRqXlpwCyvRl7pDa
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="DE | RTLup" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | RTLup
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqVKzQvGiqG7Vi-jGiU8H9BXzSOT7OZUJSs_bzCnLeet
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="DE | Nitro HD+" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Nitro HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsGmvLpmhvyLZGXRJVPpc6oELtRON-tNkNkYu68T2RWS
+#EXTINF:-1 tvg-id="Sat1Comedy.de" tvg-name="DE | Sat.1 Emotions HD+" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Sat.1 Emotions HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1St5njrDSg-g_eXWZ_-xderZJg_AHRSLG5ohW9Xisf0aX
+#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="DE | Kabel eins Classics" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Kabel eins Classics
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgevC5RTFVMUy_hoC_j3RkahVDLmBkPGElyTfuWuc6iV
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="DE | Nickelodeon" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Nickelodeon
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpqpcmyoEkpKQP9tLoV-hp84CS6oOC6GUZEmd9_yRJLM
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="DE | Cartoon Network" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Cartoon Network
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgMoPQ-x73_Yu8IKZF0LUChxbiIXjZt306WrHuXoclKs
+#EXTINF:-1 tvg-id="NickJr.de" tvg-name="DE | Nick Jr." tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Nick Jr.
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Ss95c04NGogr208Y5vK0vMC6lj2_5bFeur50UrdkCPE1
+#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="DE | Boomerang" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Boomerang
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmN41CLc4o3iQo7GjAhW4jrdhXYWi9KThUvH312ONRoL
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="DE | Toggo Plus" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Toggo Plus
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SnHVW6zuCwVjXSNuj9yzvkl6QdefyXpAjBvg5ES19XMY
+#EXTINF:-1 tvg-id="BILD.de" tvg-name="DE | Bild Tv HD RAW" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Bild Tv HD RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqeqWqBfwHZGztRNyfsjS-KEzn4sIraKo6RBYjKGCoog
+#EXTINF:-1 tvg-id="AandE.de" tvg-name="DE | Crime+Investigation" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Crime+Investigation
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1So8LYnM6U5o-mOmi_XqfJQ6-oE3LGWfFFVpqO524PHRv
+#EXTINF:-1 tvg-id="SpiegelTVWissen.de" tvg-name="DE | Curiosity Channel" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Curiosity Channel
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SritDtkEpE5moVnu_eEzxSCZxtFSqcT4x1J8XRktIpwc
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="DE | N24 Doku" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | N24 Doku
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SudZWHdwSE5uHKhmde3o0pOztOJrkoOfxKQiHxvDOoD6
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="DE | Phoenix" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Phoenix
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SkPzioHiUzGcxfX05wPQqlgfQHNRA-JOi8KY7qVLlR5i
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="DE | n-tv" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | n-tv
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sm1QAfXXVtegjhFylXryXjhl7MnKiV7Ic_Dpd9mlGF1P
+#EXTINF:-1 tvg-id="WELT.de" tvg-name="DE | WELT" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | WELT
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Slzhukivu8ErnFCE6fdFcgmb7IsBzRhsOm6N18iAHZ4q
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="DE | Tagesschau 24" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Tagesschau 24
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvPS_m6EhzrZlKy7HdXRFGCQ7yDmN1OvyjVuvTipHwrn
+#EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="DE | Nicktoons" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | Nicktoons
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpDwal3VGx_BYXQ3cvprfS041LDMMibf93uk3Szd1iiL
+#EXTINF:-1 tvg-id="GEO.de" tvg-name="DE | GEO HD RAW" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | GEO HD RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SkJU69rGQurpI-40-CZ8ULVS6PbmoBXDzlFtoKgTcPJ2
+#EXTINF:-1 tvg-id="Das Erste-DE" tvg-name="DE | EURONEWS" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | EURONEWS
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmU9C_inFtC_4mYf8RXMkyHc7gkzuPByUBlrthwwDWH9
+#EXTINF:-1 tvg-id="HGTV.de" tvg-name="DE | HGTV" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | HGTV
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sif1eDtL9hXR56GF3xfCx24vV5QOgrpQQymJ3tb-pRyE
+#EXTINF:-1 tvg-id="QVC.de" tvg-name="DE | QVC" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | QVC
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShDJT9uMjLvyXdCt929qIswXopRtFZM1yFmLg9O66yIX
+#EXTINF:-1 tvg-id="QVCPlus.de" tvg-name="DE | QVC Style" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | QVC Style
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShDJT9uMjLvyXdCt929qIsyFMFCx2TX6JRMaQ7HzizDb
+#EXTINF:-1 tvg-id="HSE24.de" tvg-name="DE | HSE24 Trend" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | HSE24 Trend
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StWk3nPneO54tqwt5VFRVthO8WZax3DX2zh3fZPLrmUz
+#EXTINF:-1 tvg-id="HSE24.de" tvg-name="DE | HSE24" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | HSE24
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StWk3nPneO54tqwt5VFRVtiTMpAkBSqJsIeoOtlun5sx
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DE | DMAX HD+" tvg-logo="" tvg-shift="0" group-title="HAUPTSENDER", DE | DMAX HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgGhTcYRnVHv6JDdFsGoslej3FudIXUtFCULHl5QxQyq
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Select Programmübersicht" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Select Programmübersicht
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SkWRU7XVDhQGtq1KhzIThh0
+#EXTINF:-1 tvg-id="Silverline.de" tvg-name="DE | Silverline" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Silverline
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrgEp2ibWdgCmUZ5GbQdCxs
+#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="DE | Sky Atlantic HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Atlantic HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrhblkA7_d_ekAtzlRqiliP6LXJc7bEbzphOJ3N0q91O
+#EXTINF:-1 tvg-id="SkyCinema.de" tvg-name="DE | Sky Cinema Premieren HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Cinema Premieren HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvbYQdv-ebaGsvNbzn5jCg4Wrul8utguT2oZRGN50f9Z
+#EXTINF:-1 tvg-id="SkyCinemaHits.de" tvg-name="DE | Sky Cinema Best Of HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Cinema Best Of HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl5WFhy3Dkl-_s6YEgdLirmsynJS5IhJRcurLdWiL1cP
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="DE | Sky Cinema Family HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Cinema Family HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvEzOVKKoKiWA1JoCtG8VmyG6a4rqWHA695JmfU5N6zt
+#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-name="DE | Sky Cinema Thriller HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Cinema Thriller HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SloQFFAyZqsTZdid4t6J5opa4o3dX-0qhZI1nrx_oPla
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="DE | Sky Cinema Premieren 24 HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Cinema Premieren 24 HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjME0_VBaRAutDhs0IPkY8HNoYaOUrhsUHB4UvxDUvqg
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="DE | Sky Action HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Action HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Shv4XTL77QAAJ7x2iffVK6B4hx-TGl7_3Vl4bE-9Cb0h
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="DE | Sky Cinema Classics" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Cinema Classics
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SuJIArlbwY4uYa1DNLmVyrs3RoO2rlqSQii-jtju0SYV
+#EXTINF:-1 tvg-id="WarnerTVComedy.de" tvg-name="DE | WarnerTv Comedy HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | WarnerTv Comedy HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShbqeItEIHxtrClpWZV5cVbaFscaAXIKblnlyPG-GGyf
+#EXTINF:-1 tvg-id="WarnerTVSerie.de" tvg-name="DE | WarnerTv Serie HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | WarnerTv Serie HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1So5v3Gc9Ka8UbqMZySvAQD0THT7IYb0jsllyxxTGbbZ4
+#EXTINF:-1 tvg-id="WarnerTVFilm.de" tvg-name="DE | WarnerTV Film HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | WarnerTV Film HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sge6AMcVGN7b6Qk_x5uUUFtAoYbU7zfjesmTQSL0qPp7
+#EXTINF:-1 tvg-id="Universal.de" tvg-name="DE | Universal TV HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Universal TV HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sod76rVCIkoBGRVwnXere99eoFsAdcavxiRRXRxw3fqP
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE | 13th Street HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | 13th Street HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1St1AOa7b4agUZ7GqJo-DVeCldA5dwwxaFvLLBPOfKa6c
+#EXTINF:-1 tvg-id="AXN.de" tvg-name="DE | AXN HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | AXN HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SszOF5gxOLh_ogus9Se6tlgFPTgPGg5418TkBVomqxLd
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="DE | Kinowelt TV" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Kinowelt TV
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlcHHX8hEvaB1p9ynS5QLcCYI-TNhOXuly0p9SRD9y5G
+#EXTINF:-1 tvg-id="Romance.de" tvg-name="DE | Romance TV" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Romance TV
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvujPjyzEiRSG4gEvpfg-mZ1Vdac-qywjHzp0DbEfMNa
+#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="DE | Heimatkanal" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Heimatkanal
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sv2bF4BGSJx-OUGDPfpUQMTE04KpbEvrlo1PM0n0N9CG
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="DE | Sky Cinema Special HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Cinema Special HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlB_RZo2K1_FCxuJSU_vSEZQcdl2ap_ghcii69Srybob
+#EXTINF:-1 tvg-id="SkyReplay.de" tvg-name="DE | Sky Replay HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Replay HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlB_RZo2K1_FCxuJSU_vSEZ7IIXyOqsjFt8ottmNhu1d
+#EXTINF:-1 tvg-id="Sky1.de" tvg-name="DE | Sky One HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky One HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StkDAvdaGkE2ZL55MyZPaRmRumUfEKZT-O-41FnC6k5V
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Select 6 HD" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Select 6 HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmN-mrvBxCpqu0fQ8Hgz3msb30oPl7eo06v_tAyqgTt1
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Select 7 HD" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Select 7 HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmN-mrvBxCpqu0fQ8Hgz3mvMvSlCDCB_r5uU4xMfXlol
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Select 8 HD" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Select 8 HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmN-mrvBxCpqu0fQ8Hgz3mvtJZ4U2DjW3_QsDEHtUV8k
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Select 9 HD" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Select 9 HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmN-mrvBxCpqu0fQ8Hgz3msR8bqAnCxCRx2pl3XjYMyV
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Select 10 HD" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Select 10 HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmN-mrvBxCpqu0fQ8Hgz3mvB8Jo58NeY8hP5jfrZG-By
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Select 1 HD" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Select 1 HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SstKfT8_1uk0SWiH6h0-yu8IXPYSrYmwuclNGyRTa7Lz
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Select 2 HD" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Select 2 HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SstKfT8_1uk0SWiH6h0-yu9vQxWW3dWUuWn1xSgDxrrx
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Select 3 HD" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Select 3 HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SstKfT8_1uk0SWiH6h0-yu8wBx1h66VAMD-bOqlBFHks
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Select 4 HD" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Select 4 HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SstKfT8_1uk0SWiH6h0-yu_val3N4f8HQqzV_bzK4hGM
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Select 5 HD" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Select 5 HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SstKfT8_1uk0SWiH6h0-yu-OBzsLJhk7lIif0nGuIJHj
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="DE | Nat Geo Wild HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Nat Geo Wild HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr7ckBAfUpZ0eBCrCYwUykZvDQU148Z-vP5y_hvNZ_j4
+#EXTINF:-1 tvg-id="DiscoveryHD.de" tvg-name="DE | Discovery HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Discovery HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr7ckBAfUpZ0eBCrCYwUykaYWqp2Kj8BOjsrmQjLxyQ4
+#EXTINF:-1 tvg-id="NatGeoHD.de" tvg-name="DE | Nat Geo HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Nat Geo HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgGhTcYRnVHv6JDdFsGoslcoR_TW5wDlvdeNZQDtFH1d
+#EXTINF:-1 tvg-id="HistoryHD.de" tvg-name="DE | History HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | History HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgGhTcYRnVHv6JDdFsGosleoL41QRihc1hWU6zbdjcYp
+#EXTINF:-1 tvg-id="SciFi.de" tvg-name="DE | SYFY HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | SYFY HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgGhTcYRnVHv6JDdFsGosleP1KZINiTt88QxR7BiLNO_
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="DE | Sky Krimi HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Krimi HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgGhTcYRnVHv6JDdFsGoslclIy92ycFZ3WzgfJAScfEe
+#EXTINF:-1 tvg-id="SkyCrime.de" tvg-name="DE | Sky Crime HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Crime HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvLU1Ryy6gpvEJBZnmsd2oRoBe_nBx5Pv0f8FOVC4MTe
+#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="DE | Sky Comedy HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Comedy HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvLU1Ryy6gpvEJBZnmsd2oQ6vQlQnVYEBjr9WptSMOkr
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Showcase HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Showcase HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SukGjBxFzfYa4MzR8eWmKho8uKslcvvrMTHiQhOOps72
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Showcase RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Showcase RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SukGjBxFzfYa4MzR8eWmKhrGLm_CjgDSkOwI9zbr51Q4
+#EXTINF:-1 tvg-id="SkyReplay.de" tvg-name="DE | Sky Replay RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Replay RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlLyh-AYMNqLsF7STkmP_17NS_uWRELPUy2jWjALZokw
+#EXTINF:-1 tvg-id="SkyNature.de" tvg-name="DE | Sky Nature RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Nature RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrpYlBdjlx1NnS4Lyud2kPrBDYwbhT-3EiE-iWkAck83
+#EXTINF:-1 tvg-id="SkyNature.de" tvg-name="DE | Sky Nature HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Nature HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrpYlBdjlx1NnS4Lyud2kPqzAAuW0XlpFmw4upF7lUW0
+#EXTINF:-1 tvg-id="SkyDocumentaries.de" tvg-name="DE | Sky Documentaries RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Documentaries RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrpYlBdjlx1NnS4Lyud2kPp6-0XoP8huPV8ja4OcTrz5
+#EXTINF:-1 tvg-id="SkyDocumentaries.de" tvg-name="DE | Sky Documentaries HD+" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Documentaries HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrpYlBdjlx1NnS4Lyud2kPr54dQMPIhdPw6UFSfNvbDZ
+#EXTINF:-1 tvg-id="Universal.de" tvg-name="DE | Universal TV RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Universal TV RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf-EExOREcJ3hrXIPSWQ4TXU
+#EXTINF:-1 tvg-id="HistoryHD.de" tvg-name="DE | History RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | History RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf-ni4O0AihCNhLUFIZ9jjTL
+#EXTINF:-1 tvg-id="WarnerTVSerie.de" tvg-name="DE | WarnerTv Serie RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | WarnerTv Serie RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf8eODHOpcrV-O79o4oODXSG
+#EXTINF:-1 tvg-id="WarnerTVFilm.de" tvg-name="DE | WarnerTV Film RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | WarnerTV Film RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf8XdyLbF7PuQcmlxiQsxkQF
+#EXTINF:-1 tvg-id="WarnerTVComedy.de" tvg-name="DE | WarnerTv Comedy RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | WarnerTv Comedy RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_m0lP22O3mzM4R_F-yZjkb
+#EXTINF:-1 tvg-id="SonyEntertainmentTV.de" tvg-name="DE | Sony Channel RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sony Channel RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf8ilbRTKSHa_r96pJYL7q-4
+#EXTINF:-1 tvg-id="Sky1.de" tvg-name="DE | Sky One RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky One RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf-JOHdjwvOJ7z0CK3ss5gut
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="DE | Sky Krimi RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Krimi RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf8zi0Y4x2E6PPnTDwZE3cW1
+#EXTINF:-1 tvg-id="SkyCrime.de" tvg-name="DE | Sky Crime RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Crime RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf8S_9ib5iKUNpb9pYcisF7W
+#EXTINF:-1 tvg-id="SkyComedy.de" tvg-name="DE | Sky Comedy RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Comedy RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf-cEurZ2l0zuoc2YWM7sifv
+#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-name="DE | Sky Cinema Thriller RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Cinema Thriller RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf-197nqDGmuzSLp8jUH-qTG
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="DE | Sky Cinema Special RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Cinema Special RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf83MpmDDerhL3pIMCa9_iqr
+#EXTINF:-1 tvg-id="SkyPremieren.de" tvg-name="DE | Sky Cinema Premieren RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Cinema Premieren RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf8auImjH5_kyqJK8TUdlRT-
+#EXTINF:-1 tvg-id="SkyCinemaPlus24.de" tvg-name="DE | Sky Cinema Premieren +24 RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Cinema Premieren +24 RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf-sZWnxfw7W2VKrkKLoQYMp
+#EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-name="DE | Sky Cinema Fun RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Cinema Fun RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf9ccwD1mMxTAi9DI8tq394A
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="DE | Sky Cinema Family RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Cinema Family RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_Jhqv1viSBRjV3CUCr3ypv
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="DE | Sky Cinema Classics RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Cinema Classics RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf9bHg2FuNDL3QjBVmcEnksL
+#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-name="DE | Sky Cinema Best Of RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Cinema Best Of RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf82tjHXplEpN5hwPqryKn94
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="DE | Sky Action RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Action RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_UgrEteZdWPwfw4985G1Uw
+#EXTINF:-1 tvg-id="SkyAtlanticHD.de" tvg-name="DE | Sky Atlantic RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Sky Atlantic RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf8p0LjStjpQt5i5Vi9yyQLR
+#EXTINF:-1 tvg-id="SciFi.de" tvg-name="DE | SYFY RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | SYFY RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf96LeUwgUf2S3ALKcVLOgx1
+#EXTINF:-1 tvg-id="Romance.de" tvg-name="DE | Romance TV RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Romance TV RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf-kUwTYW3BaFj4FKhtowkU_
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="DE | Nat Geo Wild RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Nat Geo Wild RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_68ffeWLKQRAYEZNn6TQvY
+#EXTINF:-1 tvg-id="NatGeoHD.de" tvg-name="DE | Nat Geo RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Nat Geo RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf8JNMDA_yl2gF8Iecg7OESE
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="DE | KinoweltTV RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | KinoweltTV RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf-05cAMA7aBpjaUTt3GnSxn
+#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="DE | Heimatkanal RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Heimatkanal RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf9ivNIJ4eFt1wLbxDGsyCD3
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="DE | Discovery RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | Discovery RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_NkhZBSoignjxxh9EDKg8V
+#EXTINF:-1 tvg-id="AXN.de" tvg-name="DE | AXN RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | AXN RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf-i_xohtbzXDhsAzfMd0nOu
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="DE | 13th Street RAW" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | 13th Street RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_4JV2W2Lr3upCzr_DOOnl7
+#EXTINF:-1 tvg-id="Waidwerk.de" tvg-name="DE | WAIDWERK TV" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", DE | WAIDWERK TV
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StP8rMd4C2HlvHc9yWqifxrGxjCIg8wqiNFqjhaUNEyf
+#EXTINF:-1 tvg-id="" tvg-name="╠══  SPORT══╣" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", ╠══  SPORT══╣
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjTZt8vVfsD5TUFEONeYo_0
+#EXTINF:-1 tvg-id="" tvg-name="╠══  SKY SELECT ══╣" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", ╠══  SKY SELECT ══╣
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqjybFHc4FlUiZD_snByNRM
+#EXTINF:-1 tvg-id="" tvg-name="╠══  SKY DEUTSCHLAND ══╣" tvg-logo="" tvg-shift="0" group-title="SKY DEUTSCHLAND", ╠══  SKY DEUTSCHLAND ══╣
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjcCxSw0dPxsPzTuk0QoJ5I
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="DE | Sky Bundesliga 9 HD+ (MATCHDAY)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 9 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjMHEKnXtOv6ls4eBDFY4Sk
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="DE | Sky Bundesliga 10 HD+ (MATCHDAY)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 10 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlFiIMGHHPp_cFQRMvRy310
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-name="DE | DAZN Bar 1 HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | DAZN Bar 1 HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-name="DE | DAZN Bar 2 HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | DAZN Bar 2 HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="DE | Eurosport 1 HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Eurosport 1 HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StsB60XRHQki2IRJSwyUIc0
+#EXTINF:-1 tvg-id="Sky1.de" tvg-name="DE | Eurosport 2 HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Eurosport 2 HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StKrxXztnrfEGmivohJSVmE
+#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="DE | Eurosport 2Xtra HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Eurosport 2Xtra HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SnAfUrS0jI2D2AtirN9YF2A
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="DE | Sport1" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sport1
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrIEZ6snbsNvwTWuNVj02wU
+#EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="DE | Sport1+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sport1+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Ss7XMe2T7HJFI2Jg9rmJ-MQ
+#EXTINF:-1 tvg-id="" tvg-name="DE | Auto Motor Sport" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Auto Motor Sport
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StnlWqpUjxgMvydBwZBiLCg
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="DE | Motorvision TV" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Motorvision TV
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpzJKOjCzaNc0b5W-5cl7CY
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="DE | Sky Sport 3 HD+ (MATCHDAY)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 3 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SnqnHZOvZPwAHy_IZnYtlUM
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="DE | Sky Sport 4 HD+ (MATCHDAY)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 4 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SteSm2aEhYfLYgx9vyyo4wM
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="DE | Sky Sport 5 HD+ (MATCHDAY)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 5 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StT_cpChzWhmhQ8rvS_f_Mo
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="DE | Sky Sport 6 HD+ (MATCHDAY)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 6 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sv4n0gATRCooeN7eWAp-3xE
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="DE | Sky Sport 10 HD+ (MATCHDAY)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 10 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1So5v0KwAKdQQhKMqlSCv4H8
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="DE | Sky Bundesliga 2 HD+ (MATCHDAY)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 2 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SkS3yzd9eVnrhskwvjzBwsQ
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="DE | Sky Bundesliga 3 HD+ (MATCHDAY)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 3 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShWB6z3c5N9ZPuhUzdDea18
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="DE | Sky Bundesliga 4 HD+ (MATCHDAY)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 4 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg2o_l7SfDQvVJGJUvtTbSE
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="DE | Sky Bundesliga 5 HD+ (MATCHDAY)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 5 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvsIw_SHbXFkJrgaTAi-6t8
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="DE | Sky Bundesliga 6 HD+ (MATCHDAY)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 6 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sgi7blviMZGYd_7TIx8v0Kg
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="DE | Sky Bundesliga 7 HD+ (MATCHDAY)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 7 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmSY0IPqhBlY-mBrUgA0FC4
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="DE | Sky Bundesliga 8 HD+ (MATCHDAY)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 8 HD+ (MATCHDAY)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SkofY_wajwdwmhyfpZPpyWA
+#EXTINF:-1 tvg-id="" tvg-name="DE | FC Bayern TV" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | FC Bayern TV
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SuC9rYFIy0mVJ7QIycjZmc9i9WZDsBeysX4H8Ujkh8sy
+#EXTINF:-1 tvg-id="SKYBUHD" tvg-name="DE | Sky Bundesliga HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StkDAvdaGkE2ZL55MyZPaRlYCCgWucWe5VgT6cQa8FzW
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport Tennis HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StkDAvdaGkE2ZL55MyZPaRmemVdxHtqVMoXocC4AZ6Lp
+#EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="DE | Sky Sport Top Event HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport Top Event HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlHDSiLXnhNEc7d0YtkYjfz8l_CXH8SkopTQLd4zAsMF
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="DE | Sky Sport F1 HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport F1 HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SuwnUwS0hF-cBrhE84qXm6ztaUhDTbNJ21_V_XlOVk4V
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Mix HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport Mix HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok6WuwGDTPPED7MIqoUnkWRW
+#EXTINF:-1 tvg-id="SkySportGolf.de" tvg-name="DE | Sky Sport Golf HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport Golf HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok5esmmyvQnwIXm7WWdjvQl4
+#EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport Premier League HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok66TR4WskgVMgVBV84udfR9
+#EXTINF:-1 tvg-id="SKYBUHD" tvg-name="DE | Sky Bundesliga 1 RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 1 RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SoFKGEQNRHVORoRQnAX6J4TrGc0A592paUKmZK-spGSE
+#EXTINF:-1 tvg-id="SKYBUHD" tvg-name="DE | Sky Bundesliga 1 HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 1 HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SoFKGEQNRHVORoRQnAX6J4SrjpZBsZlhBstYCLUitk_D
+#EXTINF:-1 tvg-id="SKY2GHD" tvg-name="DE | Sky Sport 2 HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 2 HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sqx6u52nQOP0i1OqPXdt_9YkoPvgA9uRE5VBIt2fSSo7
+#EXTINF:-1 tvg-id="SKY1GHD" tvg-name="DE | Sky Sport 1 RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 1 RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sqx6u52nQOP0i1OqPXdt_9Y5RvAEYW_3-20XBT0eA2d3
+#EXTINF:-1 tvg-id="SKY1GHD" tvg-name="DE | Sky Sport 1 HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 1 HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sqx6u52nQOP0i1OqPXdt_9Z-GAafvW9SVPjQPqlY73dK
+#EXTINF:-1 tvg-id="SKY2GHD" tvg-name="DE | Sky Sport 2 RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 2 RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sofc6prAtFEkZQO6JzBXdyRWYl2bfOvs0_-sTodBFK4n
+#EXTINF:-1 tvg-id="SkySportPremierLeague.de" tvg-name="DE | Sky Sport Premier League RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport Premier League RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjcJh5nS4QpSYTLvo1ZV9Ka1AN2oNz1HmdVsFmyljLXT
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sky Sport Mix RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport Mix RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjcJh5nS4QpSYTLvo1ZV9KbroTOub-3YuG62bt5cbJSp
+#EXTINF:-1 tvg-id="SkySportGolf.de" tvg-name="DE | Sky Sport Golf RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport Golf RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjcJh5nS4QpSYTLvo1ZV9KbZxZx-k5VvLs102f3-ACQa
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Programm" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Programm
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgAxHxjhj3O_YaFKcZcT6e8eki9aqhQGxKk5tirsFXUC
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE | Sportdigital Fussball HD+" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sportdigital Fussball HD+
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlLyh-AYMNqLsF7STkmP_16nxLWqhkLQXiP6P7zU9QgE
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 17" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 17
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHbZCS1Us7PB-oQcHMMNfrJI8
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 16" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 16
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHba3lJ-pjX6ct6IMKcPccTmT
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 15" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 15
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHbZJ3P0xRQnTJpByi9cQ6LCX
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 14" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 14
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHbZFNlRWCeoAXODl3LkJGn4l
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 13" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 13
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHbZgdo30664ej8Sa0fXkGCBg
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 12" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 12
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHbakozqgqxHEyOK6uyPgTo6T
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 11" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 11
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHba6YiONXKumNVwe0QuatKtm
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 10" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 10
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHbYDWOwX5dmwecccz55n-_B6
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 9" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 9
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHbamHbGHJ_w_lONmZs9ohTXf
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 8" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 8
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHbZtPc7S9sFlW8yxokhJEgNY
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 7" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 7
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHbYddjQ3nMvXTcriiEzgkJUq
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 6" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 6
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHbYA_rqFXFtztnDFJqwaOTWt
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 5" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 5
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHbZTQZMZTufJ7s5SuTib5Fqv
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 4" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 4
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHbYiuAFitvvvghJZGsUhbsqM
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 3" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 3
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHbZrPK-CE9CihjWvLLqKQnHF
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 2" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 2
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHbYny16ZqSYCb00e8jpBuNi0
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magenta Sport 1" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Magenta Sport 1
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Stn3flYAYqh3_viJCt4SHbbdD41ioULG_yW6aOUm3_7c
+#EXTINF:-1 tvg-id="" tvg-name="DE | Prime Sportsbar FEED (TEST)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Prime Sportsbar FEED (TEST)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrpYlBdjlx1NnS4Lyud2kPr003W1l0fuZpjSh5jpJ6LQ
+#EXTINF:-1 tvg-id="" tvg-name="DE | Prime Sportsbar" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Prime Sportsbar
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrpYlBdjlx1NnS4Lyud2kPrb2sMLIcvS0xDsbC6R7snf
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="DE | Sky Bundesliga 10 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 10 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf8BMQ_v9PRnfPPpmg1vR7qc
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="DE | Sky Bundesliga 9 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 9 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf-3x1WZhfGx_ilESFqk5DSi
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="DE | Sky Bundesliga 8 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 8 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf94ls-7eAUgyp7Qzg_sfu22
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="DE | Sky Bundesliga 7 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 7 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf88UnHC2hI-ZcIx_X6QYvAJ
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="DE | Sky Bundesliga 6 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 6 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf9Xx2WR8PR7tECgFZ_szV29
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="DE | Sky Bundesliga 5 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 5 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf9Hq3O1bouDtyeUpaeJXB3X
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="DE | Sky Bundesliga 4 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 4 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf-bQHE3vwWdujZR0xi5cL0f
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="DE | Sky Bundesliga 3 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 3 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf9meIiTsJgdPykE3CTMSZj1
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="DE | Sky Bundesliga 2 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga 2 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_-iqhLDUS70Wba4A5PTq9m
+#EXTINF:-1 tvg-id="SKYBUHD" tvg-name="DE | Sky Bundesliga RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Bundesliga RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_vQnRIn8Th2ZvGpYNeWrSq
+#EXTINF:-1 tvg-id="SkySport11.de" tvg-name="DE | Sky Sport 11 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 11 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf-WCna74ORatvPBJEqfS8LO
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="DE | Sky Sport 10 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 10 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_M3tZWBzsdadTtGIu7zWfx
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="DE | Sky Sport 9 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 9 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf9Q2mRibamPK2mcLt5ZXGoX
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="DE | Sky Sport 8 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 8 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_viop3aSIN3nnsuMU4udGC
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="DE | Sky Sport 7 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 7 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_BIoWOzug5iXY5DKAALyXn
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="DE | Sky Sport 6 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 6 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf-pe8NPlK3AFtPIFYOmLYXe
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="DE | Sky Sport 5 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 5 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf8T95tG0WUTDeac73dgjWsb
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="DE | Sky Sport 4 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 4 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_HQsx61AYi2VDmDgrNacR5
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="DE | Sky Sport 3 RAW (MATCHDAYS)" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport 3 RAW (MATCHDAYS)
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf8TJeuQksgp_5DXFxUVSl-p
+#EXTINF:-1 tvg-id="SkySportTennis.de" tvg-name="DE | Sky Sport Tennis RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport Tennis RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf-Yn4MA2wcKETPd9iWmFMkU
+#EXTINF:-1 tvg-id="SkySportTopEvent.de" tvg-name="DE | Sky Sport Top Event RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport Top Event RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_rcYNDJwjbH7Hcq3REqDoP
+#EXTINF:-1 tvg-id="eSports1.de" tvg-name="DE | eSports1 RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | eSports1 RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_szARw3K6bh8-hBT7X7Y11
+#EXTINF:-1 tvg-id="SkySportNewsHD.de" tvg-name="DE | Sky Sport News RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport News RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf8X73nzVmNj3lhIC356uchk
+#EXTINF:-1 tvg-id="SkySportF1.de" tvg-name="DE | Sky Sport F1 RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sky Sport F1 RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_4u69skyLbhHeQdUkqMrMU
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="DE | Sportdigital Fußball RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sportdigital Fußball RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf9SGElYR9Q9McSaWuGWlDw-
+#EXTINF:-1 tvg-id="SPORT1plus.de" tvg-name="DE | Sport1+ RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sport1+ RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf9dyoHn94l1XBExkr-oEdHE
+#EXTINF:-1 tvg-id="Sport1HD.de" tvg-name="DE | Sport1 RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Sport1 RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_GfYAW9jBbuIUfAIXNoRNg
+#EXTINF:-1 tvg-id="" tvg-name="DE | Prime Sportsbar RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Prime Sportsbar RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_xMfw5cNbCuR9XXaBFaJZJ
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="DE | Eurosport 2 RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Eurosport 2 RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf8VPrZIwDtiyVGbWrey4DKv
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="DE | Eurosport 1 RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | Eurosport 1 RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf9fbzKhyWxyIQPCbMGp7rRf
+#EXTINF:-1 tvg-id="DAZN2HD" tvg-name="DE | DAZN Bar 2 RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | DAZN Bar 2 RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf_qJh-hhym9UhIKZIuXH1Mp
+#EXTINF:-1 tvg-id="DAZN1HD" tvg-name="DE | DAZN Bar 1 RAW" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", DE | DAZN Bar 1 RAW
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Si4J09HOaE2i6QV0KBWfxf9CtVSFyYReHuHiBYPCely8
+#EXTINF:-1 tvg-id="" tvg-name="╠══  MAGENTA SPORT ══╣" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", ╠══  MAGENTA SPORT ══╣
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SkYU7GzSUEp08Rh13Tlxh6E
+#EXTINF:-1 tvg-id="" tvg-name="╠══  SKY BUNDESLIGA ══╣" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", ╠══  SKY BUNDESLIGA ══╣
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjxC1WKxHlf_vJSaWH5shoU
+#EXTINF:-1 tvg-id="" tvg-name="╠══  SKY SPORT ══╣" tvg-logo="" tvg-shift="0" group-title="SKY SPORT", ╠══  SKY SPORT ══╣
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StQCL7qhRnaB2TjAziGtrm4
+#EXTINF:-1 tvg-id="" tvg-name="DE | 24 TwentyFour HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | 24 TwentyFour HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StL6qQyFElrs608y9env-J20ntsMGVUYf99HWQYQLhyJ
+#EXTINF:-1 tvg-id="" tvg-name="DE | 4 Blocks HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | 4 Blocks HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skmol-ZB_d5BjIe8WmVDfiJBQSECjaolF8ldX1A_lbue
+#EXTINF:-1 tvg-id="" tvg-name="DE | ALF HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | ALF HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjojBVhQC8WPSIn0XbIOzib6amsXyTTAE3pUWR6LQ-8V
+#EXTINF:-1 tvg-id="" tvg-name="DE | Alle hassen Chris HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Alle hassen Chris HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skmol-ZB_d5BjIe8WmVDfiLA1rpUqTh2RBMf2IOKmmnT
+#EXTINF:-1 tvg-id="" tvg-name="DE | Alles Atze HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Alles Atze HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShD17-Ivb5_-20ZJxkJ9M4_ws-5pXUMnfy51T73JX4Em
+#EXTINF:-1 tvg-id="" tvg-name="DE | American Dad! HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | American Dad! HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sj6EpWW0ot7tdCY4LvVhlQj1lDpsFjX8HCW_acEZ-wJ5
+#EXTINF:-1 tvg-id="" tvg-name="DE | American Horror Story HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | American Horror Story HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skmol-ZB_d5BjIe8WmVDfiK5fi6Cs5IYNB2jvLFFn4Lg
+#EXTINF:-1 tvg-id="" tvg-name="DE | Archer HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Archer HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmaxSqa1hKRoT0Zf8zbw1xOHDoLpBDqO17pzeN8elDgn
+#EXTINF:-1 tvg-id="" tvg-name="DE | Arrow HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Arrow HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpPZQbVfueL1KUMswSjPSyfX6xsY6zQpyraptmF8qH41
+#EXTINF:-1 tvg-id="" tvg-name="DE | Auf Schlimmer und Ewig HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Auf Schlimmer und Ewig HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sodz6ZdjZKRA_GAdriPk-9jkXYe7yb9cR8DGtR_6z5u3
+#EXTINF:-1 tvg-id="" tvg-name="DE | Awkward HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Awkward HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjojBVhQC8WPSIn0XbIOziZVIxA7IIwsx1PLSDfn3PXk
+#EXTINF:-1 tvg-id="" tvg-name="DE | Blue Bloods HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Blue Bloods HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlZl4l8gFichbd6gHpDVBDYoRpDqtIbfVhg5H5LBqT22
+#EXTINF:-1 tvg-id="" tvg-name="DE | Bob's Burger HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Bob's Burger HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrQTE4pRQiR60maalDFh1j05ZORmrVeG9eED63qKaivz
+#EXTINF:-1 tvg-id="" tvg-name="DE | Bojack Horseman HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Bojack Horseman HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrzoJ33l1KwssMHtbFSJil1Mh8pIJKKOIafnqT9vRgJZ
+#EXTINF:-1 tvg-id="" tvg-name="DE | Border Patrol HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Border Patrol HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sju0tCMgyQHmNUPlkRUZWjjiiZhd4KV72-NPite6Ib4u
+#EXTINF:-1 tvg-id="" tvg-name="DE | Boston Legal HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Boston Legal HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgHDehkkFF1AwxzSJqZirqCvQmr1-5XdEX450rSaPFGe
+#EXTINF:-1 tvg-id="" tvg-name="DE | Bull HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Bull HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShvGfS65z4xYG2_ssx1HSDK_QqbTTtQdwJJ_WlSAjCwp
+#EXTINF:-1 tvg-id="" tvg-name="DE | Burn Notice HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Burn Notice HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpPZQbVfueL1KUMswSjPSyeVPc93hWpKi5Ojr5-gNCWi
+#EXTINF:-1 tvg-id="" tvg-name="DE | Charmed HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Charmed HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrQTE4pRQiR60maalDFh1j2Vn30T6Of399farHBSYFCG
+#EXTINF:-1 tvg-id="" tvg-name="DE | Chicago Fire HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Chicago Fire HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpPZQbVfueL1KUMswSjPSyf00-JXMzcwkLtcgS1b4OMc
+#EXTINF:-1 tvg-id="" tvg-name="DE | Chicago P.D HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Chicago P.D HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SoLktWUE828OUfQds_M5rmcl7AuYDOvOdKO781r7UlrI
+#EXTINF:-1 tvg-id="" tvg-name="DE | Close Enouth HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Close Enouth HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjGXcpvabZNbij7AP2QH2hwDF-VRXLJ65w9E7GS6duNY
+#EXTINF:-1 tvg-id="" tvg-name="DE | Cold Case - Kein Opfer ist je vergessen HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Cold Case - Kein Opfer ist je vergessen HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjojBVhQC8WPSIn0XbIOziZxwbgZaQD3BfRUTxf01amf
+#EXTINF:-1 tvg-id="" tvg-name="DE | Criminal Intent HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Criminal Intent HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmHycA36g8F9uGwwi-tD_uzTKjsDEzYjLkv9aOPQ4CZQ
+#EXTINF:-1 tvg-id="" tvg-name="DE | Crossing Jordan HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Crossing Jordan HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmFm7t-KzkkqzX7PP4n-q7nMlpiKnSkQzon8q9bJflv_
+#EXTINF:-1 tvg-id="" tvg-name="DE | CSI: Miami HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | CSI: Miami HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjojBVhQC8WPSIn0XbIOzibJkXlgi97D1hb4WdclqCQI
+#EXTINF:-1 tvg-id="" tvg-name="DE | D.C Legends of Tomorrow HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | D.C Legends of Tomorrow HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjojBVhQC8WPSIn0XbIOziY5CWi9mESCg2XYOjqKNnmq
+#EXTINF:-1 tvg-id="" tvg-name="DE | Der Prinz of Bel Air HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Der Prinz of Bel Air HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShD17-Ivb5_-20ZJxkJ9M4_7qwP87xCQvVQ7oIyKyDCW
+#EXTINF:-1 tvg-id="" tvg-name="DE | Desperate Housewife’s HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Desperate Housewife’s HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpPZQbVfueL1KUMswSjPSyekUjB3ox045KkoFt17q_bH
+#EXTINF:-1 tvg-id="" tvg-name="DE | Die Aquarien Profis" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Die Aquarien Profis
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SoJpnIsU-Nz5V7z_Nab6z1c2BZrDQund4izY49TiOccr
+#EXTINF:-1 tvg-id="" tvg-name="DE | DIe Nanny HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | DIe Nanny HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgwNvnKoCGoENsEN2erzRdseQDLMXqufA99G21zRr6ki
+#EXTINF:-1 tvg-id="" tvg-name="DE | Die Simpsons HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Die Simpsons HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpPZQbVfueL1KUMswSjPSyfnOqLWi9ZEFCmWbzckGwU6
+#EXTINF:-1 tvg-id="" tvg-name="DE | Dr. House HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Dr. House HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShILn2GSvxVLgQe1Qgjql6fjq0BQ2pV76rCxZ5R_cVRA
+#EXTINF:-1 tvg-id="" tvg-name="DE | Drawn Together HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Drawn Together HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrzoJ33l1KwssMHtbFSJil3p6f693lU4QMvKfWFVa-PJ
+#EXTINF:-1 tvg-id="" tvg-name="DE | Eine himmlische Familie" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Eine himmlische Familie
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sgy_G5xOdSJgsW9ikP4M7guH77kHfjYKzgvXS5ocDcvO
+#EXTINF:-1 tvg-id="" tvg-name="DE | Eine schrecklich nette Familie SD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Eine schrecklich nette Familie SD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpPZQbVfueL1KUMswSjPSycQUj6ON0Ukp88HB_6EkdUm
+#EXTINF:-1 tvg-id="" tvg-name="DE | Elementary HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Elementary HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r_cwAbm9AVJe4Iw4fYr-hQK
+#EXTINF:-1 tvg-id="" tvg-name="DE | Elite HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Elite HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SuJmKpNK6OGGIytF-nV4F4D7rTkfg1zPM3RazT7X2H6x
+#EXTINF:-1 tvg-id="" tvg-name="DE | Emergency Room HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Emergency Room HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r-sAmmHo4KHblqtEVLfK2cG
+#EXTINF:-1 tvg-id="" tvg-name="DE | EUReKA - Die geheime Stadt HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | EUReKA - Die geheime Stadt HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjojBVhQC8WPSIn0XbIOzibQWJPE-OHlH3uh7oT74MVk
+#EXTINF:-1 tvg-id="" tvg-name="DE | F is for Family HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | F is for Family HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjGXcpvabZNbij7AP2QH2hx_m8SSSSPVX_PwQ-GcOH3b
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fairy Tail HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Fairy Tail HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Ste8AB62pF2o7tqDPFX2dfiSFRdqP7jb2n9rLwi4vD8D
+#EXTINF:-1 tvg-id="" tvg-name="DE | Family Guy HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Family Guy HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SgMoPQ-x73_Yu8IKZF0LUCh_Iafva-ttst1NI0LQfECd
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fear The Walking Dead HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Fear The Walking Dead HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqqSCTWfbJg_MWh5INVbktB3VNIXdsaS4v_bRuVxrB6G
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fresh Of The Boat HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Fresh Of The Boat HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SoMUZGViSOZGpdqgxVeU86SmxNmAfwfO-IJphl6km7zZ
+#EXTINF:-1 tvg-id="" tvg-name="DE | Friends HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Friends HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Shj2ucqbYwxeQq-3IVkJVdS0NteLiLQgWD5WuJ4i-G0v
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fugget About It HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Fugget About It HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjGXcpvabZNbij7AP2QH2hyTPF59OU6tiqOu8TFlLEIt
+#EXTINF:-1 tvg-id="" tvg-name="DE | Full House HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Full House HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r-0u4leIiIkz2f66n8TRPN4
+#EXTINF:-1 tvg-id="" tvg-name="DE | Futurama HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Futurama HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrzoJ33l1KwssMHtbFSJil3iZ5fp89pLWXbXoFcF4Qgs
+#EXTINF:-1 tvg-id="" tvg-name="DE | Game of Thrones HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Game of Thrones HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r9BOpdNbF9Ro3EmlVwP4YPP
+#EXTINF:-1 tvg-id="" tvg-name="DE | Gilmore Girls HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Gilmore Girls HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok72EBFhOB5t_cUZFy3UyD_y
+#EXTINF:-1 tvg-id="" tvg-name="DE | Goldrausch Alaska HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Goldrausch Alaska HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sv8KfT9KUbaaczH-bgKPh9Nl8TuBG781LbiMAYCrfZSF
+#EXTINF:-1 tvg-id="" tvg-name="DE | Gomorra HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Gomorra HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r_NF6e_fdv9ytPMWHxq6c9a
+#EXTINF:-1 tvg-id="" tvg-name="DE | Gotham HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Gotham HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok6V-gQlzb8iSoVpvT5yGG9T
+#EXTINF:-1 tvg-id="" tvg-name="DE | Greys Anatomy HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Greys Anatomy HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r-tRT_ImDntCdDh7Pvxclsh
+#EXTINF:-1 tvg-id="" tvg-name="DE | Grill den Henssler HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Grill den Henssler HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlTSSnswzyWKlgsLthj4sP5BeqgiRqHogN3RCs69K2sx
+#EXTINF:-1 tvg-id="" tvg-name="DE | Haus des Geldes HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Haus des Geldes HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r8bTAuKNnNIMVBdN-6HLq8T
+#EXTINF:-1 tvg-id="" tvg-name="DE | Hausmeister Krause" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Hausmeister Krause
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqFdcB1ADtl1tVU1LKis9r-zXCeOWLBZ-eywbLBTCZcu
+#EXTINF:-1 tvg-id="" tvg-name="DE | Hawaii 5-0 HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Hawaii 5-0 HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqqSCTWfbJg_MWh5INVbktAI1BhYUu337MOKPudLabtj
+#EXTINF:-1 tvg-id="" tvg-name="DE | Heven HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Heven HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvBPMwXXaBVG7rU0CalSAuhHI4TdPItecuXP5sYqKlxh
+#EXTINF:-1 tvg-id="" tvg-name="DE | How I Met your Mother HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | How I Met your Mother HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Su7CVNl0Mt527JDleTwwoq171j-49qZ7rVrgWZ4JOPaj
+#EXTINF:-1 tvg-id="" tvg-name="DE | Hör mal wer da Hämmert" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Hör mal wer da Hämmert
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Su7CVNl0Mt527JDleTwwoq0SNQFrd4naDuwiGiHCa8xP
+#EXTINF:-1 tvg-id="" tvg-name="DE | IceRoad Truckers HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | IceRoad Truckers HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SubjW1L_bmBjAp5DAdCt3_AgiVVYPUFS1hzGHaPmQJA-
+#EXTINF:-1 tvg-id="" tvg-name="DE | Immer wieder jim HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Immer wieder jim HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SpUCM35aoG3zp57oMOitSZdyhfw75R4XePFhI4GoOc4P
+#EXTINF:-1 tvg-id="" tvg-name="DE | Kevin can't Wait HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Kevin can't Wait HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Su7CVNl0Mt527JDleTwwoq1A49QXIebgv4_zs0ZlCKOJ
+#EXTINF:-1 tvg-id="" tvg-name="DE | King of Queens HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | King of Queens HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Su7CVNl0Mt527JDleTwwoq3O_fUinRlp8491dwd8V2Bk
+#EXTINF:-1 tvg-id="" tvg-name="DE | Kitchen Impossible HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Kitchen Impossible HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SuRsZ7Pj-GFYvHtDwn1dXq9gkjKYxLS-Qzycqfi-vDnd
+#EXTINF:-1 tvg-id="" tvg-name="DE | Lass es Larry HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Lass es Larry HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjztCDaZZgeulmRcDHwQ7O79PBJZgDQrkfVCZiVCHrfS
+#EXTINF:-1 tvg-id="" tvg-name="DE | Law and Order HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Law and Order HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sn4HFBmt-jBPDmdCMd5n3IgmGe9v3iX_ajN0KXG8YxLK
+#EXTINF:-1 tvg-id="" tvg-name="DE | Law and Order SVU HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Law and Order SVU HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmfjYfe6qr5kdACzvpiEWWEIt1kUbjTKyVB9IENYT_oc
+#EXTINF:-1 tvg-id="" tvg-name="DE | Lost HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Lost HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlK0czO61FWg3ToUedfbKW-W-o_tZaO3hakXzpPVBHb1
+#EXTINF:-1 tvg-id="" tvg-name="DE | Magnum P.I HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Magnum P.I HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvBPMwXXaBVG7rU0CalSAuj_tgRFTW0DFn5q3KfUMiPr
+#EXTINF:-1 tvg-id="" tvg-name="DE | Malcom Mittendrin HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Malcom Mittendrin HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Su7CVNl0Mt527JDleTwwoq0LjGpyw5KfaJu3eugqs5Br
+#EXTINF:-1 tvg-id="" tvg-name="DE | Monk HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Monk HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr4Scpb50-yhUfkz7h9oa88tNvvGUYmSJXENfGNMUtSB
+#EXTINF:-1 tvg-id="" tvg-name="DE | Mr.Robot HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Mr.Robot HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr4Scpb50-yhUfkz7h9oa8-v9vy3MnunW1WcVFVmZdsF
+#EXTINF:-1 tvg-id="" tvg-name="DE | My Name is Earl HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | My Name is Earl HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShD17-Ivb5_-20ZJxkJ9M48WSfbR7XBm_6QsiUODggSk
+#EXTINF:-1 tvg-id="" tvg-name="DE | Naruto HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Naruto HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SoJpnIsU-Nz5V7z_Nab6z1ebMlNi9Jx2wXF5zcFXXNpA
+#EXTINF:-1 tvg-id="" tvg-name="DE | NCIS HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | NCIS HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr4Scpb50-yhUfkz7h9oa8_lVYo4n_r5oi-cq_yzIQE0
+#EXTINF:-1 tvg-id="" tvg-name="DE | NCIS L.A. HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | NCIS L.A. HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Srn911X13SSFzfqZUkqh5GNjeMH5QgU0U3eN5tNXkRbC
+#EXTINF:-1 tvg-id="" tvg-name="DE | NCIS New Orleans HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | NCIS New Orleans HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqtJkErSWUXPTAGKdKqhLY8U05JUmKOcz38z9c9K30-E
+#EXTINF:-1 tvg-id="" tvg-name="DE | One Piece HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | One Piece HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlTSSnswzyWKlgsLthj4sP7HIDO0ibNc-2R3oPKxSZQf
+#EXTINF:-1 tvg-id="" tvg-name="DE | Orange is the new Black HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Orange is the new Black HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr4Scpb50-yhUfkz7h9oa89VjSc2fNcoaSKdT_HdBJ7R
+#EXTINF:-1 tvg-id="" tvg-name="DE | Paradise PD HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Paradise PD HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjGXcpvabZNbij7AP2QH2hwpXoUe1TW8TcZy_qFhtdG6
+#EXTINF:-1 tvg-id="" tvg-name="DE | Power HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Power HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sj_JiJR6oj9mR0WCbEcUbRFpQhSe7Qrhr04nquATT6MV
+#EXTINF:-1 tvg-id="" tvg-name="DE | Prison Break HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Prison Break HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr4Scpb50-yhUfkz7h9oa8-snz7hIL6eoSHmrvAkGOJ2
+#EXTINF:-1 tvg-id="" tvg-name="DE | Queen of the South HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Queen of the South HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr4Scpb50-yhUfkz7h9oa89AtzkOzG_ZZrYLQ5AlFYbc
+#EXTINF:-1 tvg-id="" tvg-name="DE | Riverdale HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Riverdale HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sr4Scpb50-yhUfkz7h9oa8-CunyNf6t3bPABXW0N10XN
+#EXTINF:-1 tvg-id="" tvg-name="DE | Roseanne" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Roseanne
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sgy_G5xOdSJgsW9ikP4M7gtPHqCySebUNKDtzpZdxEc2
+#EXTINF:-1 tvg-id="" tvg-name="DE | S.W.A.T HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | S.W.A.T HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsxwLVceLhcDofoPTUuvdaMM6K4nScOv7TKmsjje4rc3
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sabrina total verhext" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Sabrina total verhext
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShTe41ZVQyHWyKvgung_QWwWa9sesQ5Evq93FNhbqIg9
+#EXTINF:-1 tvg-id="" tvg-name="DE | Scrubs Die Anfäger HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Scrubs Die Anfäger HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsxwLVceLhcDofoPTUuvdaPcgv2PH9bXQ7vMsZHu7j_a
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sex and the City HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Sex and the City HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsxwLVceLhcDofoPTUuvdaPXENf4G5XeNhIcYYC53VFh
+#EXTINF:-1 tvg-id="" tvg-name="DE | South Park HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | South Park HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsxwLVceLhcDofoPTUuvdaMQBhCPgMlymV9QyrtQUXV7
+#EXTINF:-1 tvg-id="" tvg-name="DE | Stargate Atlantics HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Stargate Atlantics HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sm3gKtYgT3oky90H3B5wnP9tA2C6qbEZJ9enhEOkfv1Q
+#EXTINF:-1 tvg-id="" tvg-name="DE | Steel Buddies HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Steel Buddies HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShTe41ZVQyHWyKvgung_QWye_9k4-7kUg46zA7HGmPtU
+#EXTINF:-1 tvg-id="" tvg-name="DE | Suits HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Suits HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsxwLVceLhcDofoPTUuvdaPlhpEpYyBD76i8YN869T20
+#EXTINF:-1 tvg-id="" tvg-name="DE | Supergirl HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Supergirl HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sj6EpWW0ot7tdCY4LvVhlQgNm41DzlyQnLMX-qqBviZ0
+#EXTINF:-1 tvg-id="" tvg-name="DE | The 100 HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | The 100 HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsxwLVceLhcDofoPTUuvdaMWace8CLQn_xuBO-LxeRI_
+#EXTINF:-1 tvg-id="" tvg-name="DE | The Big Bang Theory HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | The Big Bang Theory HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SsxwLVceLhcDofoPTUuvdaNBMq9lZfG9_wYCgxFVa5F_
+#EXTINF:-1 tvg-id="" tvg-name="DE | The Cleveland Show HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | The Cleveland Show HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Ss-SO7-ts124a64aEHsESRhNFjWsOLS00aYXv9F9xsin
+#EXTINF:-1 tvg-id="" tvg-name="DE | The Middle HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | The Middle HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sh7bLms33VKSYbPH8DvcT2fne3u-HrhLmvieeRNTNwAG
+#EXTINF:-1 tvg-id="" tvg-name="DE | The Shield HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | The Shield HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvBPMwXXaBVG7rU0CalSAugNKrXniBC5BQq53chqgLhQ
+#EXTINF:-1 tvg-id="" tvg-name="DE | The Walking Dead HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | The Walking Dead HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sh7bLms33VKSYbPH8DvcT2cA2xZrT6cgka29-RBx_qcV
+#EXTINF:-1 tvg-id="" tvg-name="DE | Tote Mädchen lügen nicht HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Tote Mädchen lügen nicht HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sh7bLms33VKSYbPH8DvcT2f9UCEA329xUAvJ6yaJAiNY
+#EXTINF:-1 tvg-id="" tvg-name="DE | Two and a Half Men HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Two and a Half Men HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sh7bLms33VKSYbPH8DvcT2eHspb5bz8AZAaBaPUwoCtM
+#EXTINF:-1 tvg-id="" tvg-name="DE | Van Helsing HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Van Helsing HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sh7bLms33VKSYbPH8DvcT2c8cCPs1nj6kW6QjtWESuHU
+#EXTINF:-1 tvg-id="" tvg-name="DE | Vikings HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Vikings HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sh7bLms33VKSYbPH8DvcT2cfI4TSrLtohY4wKUsrs3jW
+#EXTINF:-1 tvg-id="" tvg-name="DE | Whats up Dad HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Whats up Dad HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sv8KfT9KUbaaczH-bgKPh9N3DfUgo_xfNM5JPj_RDrPQ
+#EXTINF:-1 tvg-id="" tvg-name="DE | X-Factor Das Unfassbare HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | X-Factor Das Unfassbare HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlTSSnswzyWKlgsLthj4sP5UYk5oRJEaxJvtNZgrAmoc
+#EXTINF:-1 tvg-id="" tvg-name="DE | Young Sheldon HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7", DE | Young Sheldon HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sh7bLms33VKSYbPH8DvcT2cz5uQHdiCxcGd9GbsxgIUx
+#EXTINF:-1 tvg-id="" tvg-name="DE | American Dragon HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | American Dragon HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShTe41ZVQyHWyKvgung_QWxt71Rh4zuOHmgC38TuMUCy
+#EXTINF:-1 tvg-id="" tvg-name="DE | Arielle Die Meerjungfrau HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Arielle Die Meerjungfrau HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmHrZ-U6Dc5FgjXBDaIVE7gqZbFDZUap2RWwZLlWwncO
+#EXTINF:-1 tvg-id="" tvg-name="DE | Benjamin Blümchen HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Benjamin Blümchen HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SoMUZGViSOZGpdqgxVeU86RKLwk9o4NJVJryldToccOg
+#EXTINF:-1 tvg-id="" tvg-name="DE | Blaze HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Blaze HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmdLpfoNtEoEtpmgE192o3NM-YMYK4uUzI_wAwH_hgBP
+#EXTINF:-1 tvg-id="" tvg-name="DE | Bluey HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Bluey HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmMNRnX0RTlUBVydUjBFKYUIqAWeXyMYuBFsCwZo6v_G
+#EXTINF:-1 tvg-id="" tvg-name="DE | Caillou HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Caillou HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Smenf6xEB2KN8MKj6Zs7ZEuUgRhh50ElPJBFDIJrDBDb
+#EXTINF:-1 tvg-id="" tvg-name="DE | Caiptan Tsubasa 2006" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Caiptan Tsubasa 2006
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Smenf6xEB2KN8MKj6Zs7ZEu31PwBDwpFHvYuCkUXohFG
+#EXTINF:-1 tvg-id="" tvg-name="DE | Carmen Sandiego HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Carmen Sandiego HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqJK44THCNVX-8mj8Bct3K9yxSGkQE1amd8dK0nti10L
+#EXTINF:-1 tvg-id="" tvg-name="DE | Cosmo und Wanda" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Cosmo und Wanda
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrCJKhGWJIe9U7iCsOVBhWHUnVnZIppsBSrv9WbqRwTO
+#EXTINF:-1 tvg-id="" tvg-name="DE | D.C Hero Girls HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | D.C Hero Girls HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl6unu9xt5brWG_qHY7A3fjBSK28G-Didvhdv9C8TUQ4
+#EXTINF:-1 tvg-id="" tvg-name="DE | Die Garde der Löwen" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Die Garde der Löwen
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmdLpfoNtEoEtpmgE192o3NMqaBzVgdpR9vUAI8vg6ob
+#EXTINF:-1 tvg-id="" tvg-name="DE | Die Oktonauten HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Die Oktonauten HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StDvZST2PPkCLGM4xX6-tjZqVCB_SQ-BTTTMA49C0Wrw
+#EXTINF:-1 tvg-id="" tvg-name="DE | Die Pinguine aus Madagascar HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Die Pinguine aus Madagascar HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjGXcpvabZNbij7AP2QH2hy8E9rhDm0n96A8KPIt28r_
+#EXTINF:-1 tvg-id="" tvg-name="DE | Die Schlümpfe HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Die Schlümpfe HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrzoJ33l1KwssMHtbFSJil2Pvfa-577n_cZVl5Y8zLEY
+#EXTINF:-1 tvg-id="" tvg-name="DE | Digimon HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Digimon HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrCJKhGWJIe9U7iCsOVBhWH4INoacrscfgOekJ-P1ogv
+#EXTINF:-1 tvg-id="" tvg-name="DE | Disney's Große Pause HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Disney's Große Pause HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmdLpfoNtEoEtpmgE192o3Oke7IHlEqvhz786OzvnQvA
+#EXTINF:-1 tvg-id="" tvg-name="DE | Disney's Wochenend Kids" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Disney's Wochenend Kids
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Ste8AB62pF2o7tqDPFX2dfjByw9YqS5xEMwpuQ7GWyeg
+#EXTINF:-1 tvg-id="" tvg-name="DE | DoC McStufins HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | DoC McStufins HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl6unu9xt5brWG_qHY7A3fiEnc6KpLW93BiJUeS0YQxh
+#EXTINF:-1 tvg-id="" tvg-name="DE | Dragonball GT" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Dragonball GT
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Svo1lt8hxF3LuEq0YpxZj3myTfv9LSM5hNb8lXEwHkAF
+#EXTINF:-1 tvg-id="" tvg-name="DE | Dragonball HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Dragonball HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlTSSnswzyWKlgsLthj4sP6wwhEygtVmd1_hyUvZbkln
+#EXTINF:-1 tvg-id="" tvg-name="DE | Dragonball Super HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Dragonball Super HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmdLpfoNtEoEtpmgE192o3OrZXKyGVE3Ry9tOymTUKUY
+#EXTINF:-1 tvg-id="" tvg-name="DE | Dragonball Z Kai HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Dragonball Z Kai HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmG6trcMIRPop7CSzlLU8rWrWjm2Lnvp6MS9VRzmYv8h
+#EXTINF:-1 tvg-id="" tvg-name="DE | Ducktales" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Ducktales
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SureiwxpkuiuDs0rMQ8eGcVHSIQmZIR5ZuTcQ9KdvmoK
+#EXTINF:-1 tvg-id="" tvg-name="DE | Elena von Avalor HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Elena von Avalor HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjGXcpvabZNbij7AP2QH2hzabkoCQ7p9uOatpTyN82xd
+#EXTINF:-1 tvg-id="" tvg-name="DE | Fast&Furious Spy Racers HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Fast&Furious Spy Racers HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrzoJ33l1KwssMHtbFSJil0KB28bCWmrxmuf_ASpso3j
+#EXTINF:-1 tvg-id="" tvg-name="DE | Feuerwehrmann Sam HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Feuerwehrmann Sam HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl6unu9xt5brWG_qHY7A3fjt0H_xVZqrHj2Jb54vsAg6
+#EXTINF:-1 tvg-id="" tvg-name="DE | Heidi 2013 HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Heidi 2013 HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl6unu9xt5brWG_qHY7A3fhLOWaDNuwj91mIgpQyvgkz
+#EXTINF:-1 tvg-id="" tvg-name="DE | Hey Arnold" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Hey Arnold
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SrCJKhGWJIe9U7iCsOVBhWFM9DfwrOBbWuBrq6V9cWQK
+#EXTINF:-1 tvg-id="" tvg-name="DE | Kid Cosmic HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Kid Cosmic HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Snrxm9iyf4b3gb26hkvySLktghjqL6692BsJfprbJqMm
+#EXTINF:-1 tvg-id="" tvg-name="DE | Kim Possible HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Kim Possible HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmdLpfoNtEoEtpmgE192o3NQSQ_DzkVHITI8ipkEb_su
+#EXTINF:-1 tvg-id="" tvg-name="DE | Ladybug HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Ladybug HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmdLpfoNtEoEtpmgE192o3Meig11yGtCD_roWvlqtyEZ
+#EXTINF:-1 tvg-id="" tvg-name="DE | Lego Nexo HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Lego Nexo HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmdLpfoNtEoEtpmgE192o3Px8sUh_0rKqeXcFBm0fa5w
+#EXTINF:-1 tvg-id="" tvg-name="DE | Lego Ninjago HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Lego Ninjago HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Snrxm9iyf4b3gb26hkvySLlX0yuXv3B6GTyQLundrpQ7
+#EXTINF:-1 tvg-id="" tvg-name="DE | Löwenzahn" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Löwenzahn
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sp1jphiq4sV1PqJg00RIpHcezv-GIAY9kv6uYMGyL5vh
+#EXTINF:-1 tvg-id="" tvg-name="DE | Masha und der Bär HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Masha und der Bär HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmdLpfoNtEoEtpmgE192o3PVofmq_pxOKV8vdKx_CN59
+#EXTINF:-1 tvg-id="" tvg-name="DE | Meine Freundin Conni HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Meine Freundin Conni HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skl0fNEukFgvGDVw1Z4vxOIh_js2rAl-GX_mofR8GZer
+#EXTINF:-1 tvg-id="" tvg-name="DE | Mick's Clubhaus" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Mick's Clubhaus
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Smenf6xEB2KN8MKj6Zs7ZEuShsuhkyHR1NcANF3atca4
+#EXTINF:-1 tvg-id="" tvg-name="DE | Mr. Bean HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Mr. Bean HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4oVLQEt0oECtYYzfrM2AACsG68gHCTgU63vPAfwHVI
+#EXTINF:-1 tvg-id="" tvg-name="DE | My little Pony" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | My little Pony
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sodz6ZdjZKRA_GAdriPk-9gZ3qDxuQtxRLlaVG7Exxx9
+#EXTINF:-1 tvg-id="" tvg-name="DE | Paw Patrol HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Paw Patrol HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Smenf6xEB2KN8MKj6Zs7ZEtwD0L0D1y9WQZKTb3Xv66S
+#EXTINF:-1 tvg-id="" tvg-name="DE | Peppa Pig HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Peppa Pig HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlBJJalAZiZLz0mETLFeSh3SSkUtm8tCufxslK3hbiuR
+#EXTINF:-1 tvg-id="" tvg-name="DE | Phineas and Ferb HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Phineas and Ferb HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjGXcpvabZNbij7AP2QH2hyegiz301l5G3KT3K8kjuEj
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pinky und der Brain" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Pinky und der Brain
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SmG6trcMIRPop7CSzlLU8rU3usXw1Gfi0ZT1-DnMoQSq
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pinoccio 1976" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Pinoccio 1976
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SubjW1L_bmBjAp5DAdCt3_DF_Faobjlw6H2IWwPyjxOy
+#EXTINF:-1 tvg-id="" tvg-name="DE | PJ Mask's HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | PJ Mask's HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlBJJalAZiZLz0mETLFeSh2azKg68Mz2UvZKUIZh4jPl
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pokemon HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Pokemon HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SoJpnIsU-Nz5V7z_Nab6z1cxATr8vOJm9nPZocMkc8eX
+#EXTINF:-1 tvg-id="" tvg-name="DE | Pokemon Sonne Mond HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Pokemon Sonne Mond HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1St3frDlXMW32p9lA4Ha4v8kjTHOYqmm9HmdIXCbrwFwN
+#EXTINF:-1 tvg-id="" tvg-name="DE | Ranger Rob HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Ranger Rob HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sv2jwajii0v54MnN50deiI5YASS_fMWZ5bD-a6SMVvz6
+#EXTINF:-1 tvg-id="" tvg-name="DE | Rapunzel HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Rapunzel HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqJK44THCNVX-8mj8Bct3K9qVQeSdAPEHD-EIvZYsC2N
+#EXTINF:-1 tvg-id="" tvg-name="DE | Sailor Moon Crystal HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Sailor Moon Crystal HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1ShTe41ZVQyHWyKvgung_QWxKUVARqxKHzxRWJp97q965
+#EXTINF:-1 tvg-id="" tvg-name="DE | Simsalabim Sabrina" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Simsalabim Sabrina
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SriHLlbvzSAr47t2M2kjTdJ2igAefQiBb_91_dx8ztQZ
+#EXTINF:-1 tvg-id="" tvg-name="DE | Spongebob" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Spongebob
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Smenf6xEB2KN8MKj6Zs7ZEv1fbA8JCqVsTP3mDexy0m7
+#EXTINF:-1 tvg-id="" tvg-name="DE | Steven Universe HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Steven Universe HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok5KUiSrxU9q-8V70ltqva_Z
+#EXTINF:-1 tvg-id="" tvg-name="DE | Teen Titans Go HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Teen Titans Go HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvTTkj4Rxvr-9BAHD7QGv1fMWLMmRTGJEF58VDKABP6O
+#EXTINF:-1 tvg-id="" tvg-name="DE | The Boss Baby HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | The Boss Baby HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SlBJJalAZiZLz0mETLFeSh2egBoYh8M5Vrd37wCgQcOh
+#EXTINF:-1 tvg-id="" tvg-name="DE | The Looney Toons HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | The Looney Toons HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1So5Qs4uTVTbGfgCiz0sCb4hhFIhAXIqEnrZm9G99wZ3X
+#EXTINF:-1 tvg-id="" tvg-name="DE | Tom und Jerry Show" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Tom und Jerry Show
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skl0fNEukFgvGDVw1Z4vxOIAWyx0u1JgZXUYxgb0Dun4
+#EXTINF:-1 tvg-id="" tvg-name="DE | Trolljäger HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Trolljäger HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjGXcpvabZNbij7AP2QH2hzqxU7ARmevkeoQoAcUIJ9_
+#EXTINF:-1 tvg-id="" tvg-name="DE | Victorious HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Victorious HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SvTTkj4Rxvr-9BAHD7QGv1f8lnFT2CxtlGf5NfHGN1ia
+#EXTINF:-1 tvg-id="" tvg-name="DE | We bare Bears HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | We bare Bears HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SjGXcpvabZNbij7AP2QH2hwsjlMX952Nk85gmBuBt1-J
+#EXTINF:-1 tvg-id="" tvg-name="DE | Willkommen bei den Louds HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Willkommen bei den Louds HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SiJHRi9QS0FvQq_kCMx0O9WkGYh2b2tWLScMYgl405QS
+#EXTINF:-1 tvg-id="" tvg-name="DE | Zacki und die Zoobande HD" tvg-logo="" tvg-shift="0" group-title="DE 24/7 KIDS", DE | Zacki und die Zoobande HD
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1SqrIEsuhUXZIwvDLNc1eH09__Ss9abiMXcQM8ZJaczy1
